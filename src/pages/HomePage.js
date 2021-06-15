@@ -34,7 +34,7 @@ export default function HomePage() {
   ))
 
   return (
-    <div classNamr="home">
+    <div className="home">
         {artList}
     </div>
   )
